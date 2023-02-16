@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: myPackage
+Version: 0.1
+Home-page: https;//github.com/<username>/<package-name>
+Author: Annah Masunga
+Author-email: <your Email>
+License: MIT
+
+#mypackage
+
+This library is for python package parctice
